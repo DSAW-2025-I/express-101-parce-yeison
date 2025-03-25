@@ -1,3 +1,17 @@
+## Julian Romero & Juan Lopez
+## 325312 & 329645
+## Endpoint 1:
+    https://express-101-parce-yeison.vercel.app/user-info/1
+## Endpoint 2: 
+    https://express-101-parce-yeison.vercel.app/user-info/2
+## Endpoint invalido: 
+    https://express-101-parce-yeison.vercel.app/user-info/3
+## Endpoint error 404: 
+    https://express-101-parce-yeison.vercel.app
+
+
+
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/pKOlJAgR)
 # Taller en Parejas: Creación de un Endpoint con Express.js
 
