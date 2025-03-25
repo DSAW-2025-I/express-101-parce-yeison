@@ -2,6 +2,8 @@
 ## 325312 & 329645
 ## Endpoint 1:
     https://express-101-parce-yeison.vercel.app/user-info/1
+
+    ![alt text](image.png)
 ## Endpoint 2: 
     https://express-101-parce-yeison.vercel.app/user-info/2
 ## Endpoint invalido: 
